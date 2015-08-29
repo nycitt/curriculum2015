@@ -5,7 +5,7 @@ Students will learn what to expect from being a part of the ScriptEd program, fi
 
 ##Lessons
 
-1. [ScriptEd Information Session](sessions/0-infosession)
+1. [ScriptEd Information Session](sessions/0-infosession/README.md)
 
 
 ##Standards
