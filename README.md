@@ -10,7 +10,7 @@ While completing the units below, the students are working towards becoming extr
 
 | Unit  | Lessons | Topics/Skills | Project 1 | Project 2 |
 |-------|:-------:|------|--------------|--------------|
-| [**0. ScriptEd**](units/0-Infosession/)| 1 | Routines and Expectations | N/A| N/A|
+| [**0. ScriptEd**](units/0-Infosession/README.md)| 1 | Routines and Expectations | N/A| N/A|
 | [**1. Intro to CS**](units/1-introduction/)| 1 | Computational thinking | N/A| N/A|
 | [**2. HTML (Introduction)**](units/2-HTML1/)| 5 | HTML page structure, Basic tags |[NYT Remix](units/2-HTML1/sessions/3-project-nytRemix)   | [Images](units/2-HTML1/sessions/5-project-image)
 | [**3. CSS (Introduction)**](units/3-CSS1/)| 4 | Wireframing, Basic Styling  | [CSS ScriptEd Garden](units/3-CSS1/sessions/3-project-garden) |  [About Who?](units/3-CSS1/sessions/4-project-who)| 
