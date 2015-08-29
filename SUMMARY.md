@@ -1,1 +1,20 @@
 # Summary
+This is the lesson plan for ScriptEd
+
+* [ScriptEd](units/0-Infosession/README.md)
+* [Intro to CS](units/1-introduction/)
+* [HTML (Introduction)](units/2-HTML1/)
+* [CSS (Introduction)](units/3-CSS1/)
+* [HTML, CSS & jQuery](units/4-GA-/)
+* [Optional Unit, Scratch](units/opt-scratch/)
+* [JavaScript 1.1](units/5-javascript1_1/)
+* [JavaScript 1.2](units/6-javascript1_2/)
+* [IDE Tutorial: Cloud9](units/c9_setup/)
+* [Command line](units/7-commandline)
+* [Git & GitHub](units/8-git)
+* [HTML (Advanced)](units/9-HTML2/)
+* [HTML/CSS (Advanced)](units/10-HTML_CSS2)
+* [Bootstrap](units/11-bootstrap)
+* [jQuery](units/12-jQuery)
+* [JavaScript 2.1**](units/13-javascript2_1)
+* [JavaScript 2.2**](units/14-javascript2_2)
