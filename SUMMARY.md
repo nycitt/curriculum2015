@@ -30,3 +30,4 @@ This is the lesson plan for ScriptEd
     - [SoundMood](https://github.com/ScriptEdcurriculum/SoundMood_Adv)
     - [Portfolio](unitsYear2/10-portfolio/README.md)
     - [Entrepreneurialism](unitsYear2/11-Entrepreneurialism/README.md)
+- Other
