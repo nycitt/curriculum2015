@@ -1,0 +1,23 @@
+{
+  "name": "curriculum2015",
+  "version": "1.0.0",
+  "description": "Git Book for the curriculum",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-jsbin": "0.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nycitt/curriculum2015.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nycitt/curriculum2015/issues"
+  },
+  "homepage": "https://github.com/nycitt/curriculum2015#readme"
+}
