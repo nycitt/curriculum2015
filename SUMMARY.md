@@ -18,7 +18,7 @@ This is the lesson plan for ScriptEd
     - [jQuery](units/12-jQuery/README.md)
     - [JavaScript 2.1](units/13-javascript2_1/README.md)
     - [JavaScript 2.2](units/14-javascript2_2/README.md)
-* Advanced Curriculum
+- Advanced Curriculum
     - [Scavenger Hunt](unitsYear2/1-JShunt/README.md)
     - [Rock, Paper, Scissors](https://github.com/ScriptEdcurriculum/rockPaperScissors_Adv)
     - [Website ReBranding](unitsYear2/3-reDesign/README.md)
