@@ -1,6 +1,6 @@
 # Summary
 This is the lesson plan for ScriptEd
-* First Year Curriculum
+- First Year Curriculum
     - [ScriptEd](units/0-Infosession/README.md)
     - [Intro to CS](units/1-introduction/README.md)
     - [HTML (Introduction)](units/2-HTML1/README.md)
